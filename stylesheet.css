@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+    margin: 10px;
+    padding: 10px;
+}
+
+nav {
+    background-color:cyan;
+    color: gold;
+    padding: 30px;
+    
+    border-radius:10px 10px 10px 10px;
+}
+
+ 
+      
+
+    nav a {
+        text-decoration: auto;
+        color:black;
+        word-spacing:2px;
+        padding:10px;
+        border-spacing :5px;
+    }
+
+        nav a:hover {
+            color: gray;
+        }
+
+section {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1em;
+}
+
+img {
+    width: 1000px;
+    height:90vh;
+}
+
+form {
+    width: 100px;
+    height:50vh;
+}
+textarea{
+    width:600px;
+    height:20vh;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
